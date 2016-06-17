@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    background: #CCC;
+}
+
+.index-menu {
+    color: #FFF;
+    font-family: Helvetica Neue;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.index-menu div:first-child {
+    border-bottom: solid 1px;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+    display: block;
+    margin-top: 10px;
+}
+
+.index-menu div:last-child {
+    margin-top: 10px;
+}
