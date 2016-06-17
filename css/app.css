@@ -12,7 +12,7 @@ body {
 
 .index-menu div:first-child {
     border-bottom: solid 1px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 }
 
 a {
